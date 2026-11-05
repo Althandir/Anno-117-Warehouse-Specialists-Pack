@@ -2,7 +2,7 @@
 <!-- Add to RewardPools -->
 <!-- RewardList Economy Legendary -->
 <Group>
-    <ModOp Type="add" GUID="121855" Path="/Values/RewardPool/ItemsPool">
+    <ModOp Type="add" GUID="121855,79669" Path="/Values/RewardPool/ItemsPool">
     <Item>
         <ItemLink>1600000497</ItemLink>
     </Item> 
